@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=7C8CF8&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Shown+Lin+%F0%9F%91%8B;Building+autonomous+agents;Exploring+LLM+%C3%97+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=1000&color=7C8CF8&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Shown+Lin+%F0%9F%91%8B;Building+autonomous+agents;Exploring+LLM+%C3%97+Systems" alt="Typing SVG" />
 </a>
 
 </div>
 
 <p align="center">
-  <samp>
+  <samp style="font-size: 15px">
     WHU Remote Sensing · Agent Developer<br>
     <b>I build intelligent agents at the intersection of LLM and systems.</b>
   </samp>
@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 
-<samp>
+<samp style="font-size: 15px">
 
 - 🎓 Undergraduate at **Wuhan University**, School of Remote Sensing
 - 🤖 Currently deep in **AI agent development** — agent loops, tool calling, MCP
@@ -61,7 +61,7 @@
 ### 🚀 Featured Projects
 
 <p align="left">
-  <samp>
+  <samp style="font-size: 15px">
     <b><a href="https://github.com/allwayso/TaskScheduler">TaskScheduler</a></b> — Kernel-inspired task arrangement: learn scheduling from the OS<br>
     <b><a href="https://github.com/allwayso/DSreview">DSreview</a></b> — Comprehensive data structures notes & C++ implementations<br>
     <b><a href="https://github.com/allwayso/OSreview">OSreview</a></b> — Operating systems review, from virtual memory to file systems<br>
@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
-  <samp>「 What I cannot create, I do not understand. 」</samp>
+  <samp style="font-size: 15px">「 What I cannot create, I do not understand. 」</samp>
 </div>
 
 <br>
