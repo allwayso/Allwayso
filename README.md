@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=1000&color=7C8CF8&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Shown+Lin+%F0%9F%91%8B;Building+autonomous+agents;Exploring+LLM+%C3%97+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=1000&color=7C8CF8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shown+Lin+%F0%9F%91%8B;Building+autonomous+agents;Exploring+LLM+%C3%97+Systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=allwayso&theme=tokyonight&hide_border=true&background=0D1117&ring=7C8CF8&fire=7C8CF8&currStreakLabel=7C8CF8" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=allwayso&theme=tokyonight&hide_border=true&background=0D1117&ring=7C8CF8&fire=7C8CF8&currStreakLabel=7C8CF8" />
 </div>
 
 ---
@@ -62,10 +62,10 @@
 
 <p align="left">
   <samp style="font-size: 15px">
-    <b><a href="https://github.com/allwayso/TaskScheduler">TaskScheduler</a></b> — Kernel-inspired task arrangement: learn scheduling from the OS<br>
-    <b><a href="https://github.com/allwayso/DSreview">DSreview</a></b> — Comprehensive data structures notes & C++ implementations<br>
-    <b><a href="https://github.com/allwayso/OSreview">OSreview</a></b> — Operating systems review, from virtual memory to file systems<br>
-    <b><a href="https://github.com/allwayso/Java-Study">Java-Study</a></b> — Software engineering foundations via MIT 6.092
+    <b><a href="https://github.com/allwayso/learn-pi-agent">learn-pi-agent</a></b> — 从零手写 AI Agent 运行时：agent loop · tool calling · MCP · RAG<br>
+    <b><a href="https://github.com/allwayso/CookingSimulator">CookingSimulator</a></b> — 像素风格做菜模拟器，基于 Unity<br>
+    <b><a href="https://github.com/allwayso/tinyrenderer">tinyrenderer</a></b> — 从零实现软渲染器，学习图形学管线<br>
+    <b><a href="https://github.com/allwayso/cs231n">cs231n</a></b> — Stanford 计算机视觉课程笔记与代码
   </samp>
 </p>
 
