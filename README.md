@@ -48,12 +48,14 @@
 ### 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=allwayso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C8CF8&icon_color=7C8CF8&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwayso&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C8CF8&text_color=C9D1D9" />
+  <img src="https://img.shields.io/badge/Repos-25-7C8CF8?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Stars-30-7C8CF8?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Followers-4-7C8CF8?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=allwayso&color=7C8CF8&style=flat-square&label=Views" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=allwayso&theme=tokyonight&hide_border=true&background=0D1117&ring=7C8CF8&fire=7C8CF8&currStreakLabel=7C8CF8" />
+  <img src="https://ghchart.rshah.org/7C8CF8/allwayso" alt="Contribution Graph" />
 </div>
 
 ---
