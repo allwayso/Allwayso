@@ -11,11 +11,11 @@
 
 ---
 
-| Now Building | Featured | Learning |
+| Now Building | Featured | [TIL](https://github.com/allwayso/TIL) |
 | --- | --- | --- |
-| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | Agent loop 与 MCP 协议 |
-| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | 计算机图形学管线 |
-| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | 深度学习与视觉 |
+| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> *TIL is empty yet* |
+| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> |
+| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> |
 
 ---
 
