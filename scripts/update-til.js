@@ -27,52 +27,20 @@ function githubApi(path) {
   });
 }
 
-function walkTree(sha, prefix = "") {
-  return githubApi(`/repos/${TIL_REPO}/git/trees/${sha}?recursive=1`).then((tree) =>
-    tree.tree
-      .filter((f) => f.type === "blob" && f.path.endsWith(".md") && f.path !== "README.md")
-      .map((f) => ({ path: f.path, sha: f.sha }))
-  );
-}
-
 async function getLatestTilEntries() {
-  // Step 1: get default branch
-  const repo = await githubApi(`/repos/${TIL_REPO}`);
-  const branch = repo.default_branch;
+  // Fetch pre-built index.json from TIL repo (single API call)
+  const indexData = await githubApi(`/repos/${TIL_REPO}/contents/index.json`);
+  const indexContent = Buffer.from(indexData.content, "base64").toString("utf-8");
+  const allEntries = JSON.parse(indexContent);
 
-  // Step 2: get tree
-  const branchData = await githubApi(`/repos/${TIL_REPO}/git/ref/heads/${branch}`);
-  const rootSha = branchData.object.sha;
-  const tree = await githubApi(`/repos/${TIL_REPO}/git/trees/${rootSha}?recursive=1`);
+  // index.json is already sorted by date descending; take top N
+  const latest = allEntries.slice(0, MAX_ENTRIES);
 
-  const mdFiles = tree.tree
-    .filter((f) => f.type === "blob" && f.path.endsWith(".md") && f.path !== "README.md")
-    .map((f) => ({ path: f.path, sha: f.sha }));
-
-  if (mdFiles.length === 0) return [];
-
-  // Step 3: get commits to find most recently modified files
-  const commits = await githubApi(
-    `/repos/${TIL_REPO}/commits?path=${encodeURIComponent(mdFiles[0].path)}&per_page=1`
-  );
-
-  // Sort by path for now; we'll use commit info per file
-  // For simplicity, get last 3 files alphabetically as a start
-  // A full impl would check each file's last commit date
-  const sorted = mdFiles.slice(0, MAX_ENTRIES);
-
-  // Step 4: fetch each file's first heading as title
-  const entries = [];
-  for (const f of sorted) {
-    const blob = await githubApi(`/repos/${TIL_REPO}/git/blobs/${f.sha}`);
-    const content = Buffer.from(blob.content, "base64").toString("utf-8");
-    const titleMatch = content.match(/^#\s+(.+)/m);
-    const title = titleMatch ? titleMatch[1] : f.path.replace(/\.md$/, "");
-    const slug = f.path.replace(/\.md$/, "");
-    entries.push({ title, path: f.path, slug });
-  }
-
-  return entries;
+  return latest.map((e) => ({
+    title: e.title,
+    path: e.path,
+    slug: e.path.replace(/\.md$/, ""),
+  }));
 }
 
 function updateReadme(entries) {
