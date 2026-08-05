@@ -48,13 +48,18 @@ function updateReadme(entries) {
 
   for (let i = 0; i < MAX_ENTRIES; i++) {
     const marker = `<!-- TIL:${i + 1} -->`;
+    // Match marker + everything after it until the closing | of the table cell
+    const regex = new RegExp(
+      marker.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ".*?(?=\\||$)",
+      "s"
+    );
+
     if (entries[i]) {
       const entry = entries[i];
-      const replacement = `<!-- TIL:${i + 1} --> **[${entry.title}](https://github.com/allwayso/TIL/blob/main/${entry.path})**`;
-      readme = readme.replace(marker, replacement);
+      const replacement = `${marker} **[${entry.title}](https://github.com/allwayso/TIL/blob/main/${encodeURIComponent(entry.path)})**`;
+      readme = readme.replace(regex, replacement);
     } else {
-      readme = readme.replace(marker + " *TIL is empty yet*", marker + " *TIL is empty yet*");
-      readme = readme.replace(marker, marker);
+      readme = readme.replace(regex, `${marker} *TIL is empty yet*`);
     }
   }
 
