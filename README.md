@@ -13,7 +13,7 @@
 
 | Now Building | Featured | [TIL](https://github.com/allwayso/TIL) |
 | --- | --- | --- |
-| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[How Similarity Search Work](https://github.com/allwayso/TIL/blob/main/How Similarity Search Work.md)** **[[Simon Willison’s Weblog](https://simonwillison.net/)](https://github.com/allwayso/TIL/blob/main/.firecrawl/article.md)** *TIL is empty yet* |
+| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[How Similarity Search Work](https://github.com/allwayso/TIL/blob/main/How Similarity Search Work.md)** **[How Similarity Search Work](https://github.com/allwayso/TIL/blob/main/How Similarity Search Work.md)** **[[Simon Willison’s Weblog](https://simonwillison.net/)](https://github.com/allwayso/TIL/blob/main/.firecrawl/article.md)** *TIL is empty yet* |
 | Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[A Developer’s Guide to Approximate Nearest Neighbor (ANN) Algorithms](https://github.com/allwayso/TIL/blob/main/.firecrawl/pinecone.io-learn-a-developers-guide-to-ann-algorithms.md)** |
 | LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[Hierarchical Navigable Small Worlds (HNSW)](https://github.com/allwayso/TIL/blob/main/.firecrawl/pinecone.io-learn-series-faiss-hnsw.md)** |
 
