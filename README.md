@@ -13,7 +13,7 @@
 
 | Now Building | Featured | [TIL](https://github.com/allwayso/TIL) |
 | --- | --- | --- |
-| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[How Similarity Search Work](https://github.com/allwayso/TIL/blob/main/How%20Similarity%20Search%20Work.md)** |
+| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[How Similarity Search Work](https://github.com/allwayso/TIL/blob/main/How%20Similarity%20Search%20Work.md)** - 2026-08-05 |
 | Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> *TIL is empty yet* |
 | LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> *TIL is empty yet* |
 

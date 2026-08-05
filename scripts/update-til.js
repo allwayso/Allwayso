@@ -40,6 +40,7 @@ async function getLatestTilEntries() {
     title: e.title,
     path: e.path,
     slug: e.path.replace(/\.md$/, ""),
+    date: e.date ? e.date.slice(0, 10) : null,  // YYYY-MM-DD
   }));
 }
 
@@ -56,7 +57,8 @@ function updateReadme(entries) {
 
     if (entries[i]) {
       const entry = entries[i];
-      const replacement = `${marker} **[${entry.title}](https://github.com/allwayso/TIL/blob/main/${encodeURIComponent(entry.path)})**`;
+      const dateStr = entry.date ? ` - ${entry.date}` : "";
+      const replacement = `${marker} **[${entry.title}](https://github.com/allwayso/TIL/blob/main/${encodeURIComponent(entry.path)})**${dateStr}`;
       readme = readme.replace(regex, replacement);
     } else {
       readme = readme.replace(regex, `${marker} *TIL is empty yet*`);
