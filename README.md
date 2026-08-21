@@ -13,9 +13,9 @@
 
 | Now Building | Featured | [TIL](https://github.com/allwayso/TIL) |
 | --- | --- | --- |
-| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[First Use of  CachyOS](https://github.com/allwayso/TIL/blob/main/First%20Use%20of%20%20CachyOS.md)** - 2026-08-12|
-| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[All hooks in pi](https://github.com/allwayso/TIL/blob/main/All%20hooks%20in%20pi.md)** - 2026-08-09|
-| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[SGR(Select Graphic Rendition)](https://github.com/allwayso/TIL/blob/main/SGR(Select%20Graphic%20Rendition).md)** - 2026-08-09|
+| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[Context Compaction：multiple layers](https://github.com/allwayso/TIL/blob/main/Context%20Compaction%EF%BC%9Amultiple%20layers.md)** - 2026-08-21|
+| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[First Use of  CachyOS](https://github.com/allwayso/TIL/blob/main/First%20Use%20of%20%20CachyOS.md)** - 2026-08-21|
+| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[First read of Cordis paper](https://github.com/allwayso/TIL/blob/main/First%20read%20of%20Cordis%20paper.md)** - 2026-08-21|
 
 ---
 
