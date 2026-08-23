@@ -13,7 +13,7 @@
 
 | Now Building | Featured | [TIL](https://github.com/allwayso/TIL) |
 | --- | --- | --- |
-| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[Context Compaction：multiple layers](https://github.com/allwayso/TIL/blob/main/Context%20Compaction%EF%BC%9Amultiple%20layers.md)** - 2026-08-21|
+| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[Context Compaction：multiple layers](https://github.com/allwayso/TIL/blob/main/Context%20Compaction%EF%BC%9Amultiple%20layers.md)** - 2026-08-23|
 | Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[First Use of  CachyOS](https://github.com/allwayso/TIL/blob/main/First%20Use%20of%20%20CachyOS.md)** - 2026-08-21|
 | LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[First read of Cordis paper](https://github.com/allwayso/TIL/blob/main/First%20read%20of%20Cordis%20paper.md)** - 2026-08-21|
 
