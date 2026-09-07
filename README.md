@@ -13,9 +13,9 @@
 
 | Now Building | Featured | [TIL](https://github.com/allwayso/TIL) |
 | --- | --- | --- |
-| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[Context Compaction：multiple layers](https://github.com/allwayso/TIL/blob/main/Context%20Compaction%EF%BC%9Amultiple%20layers.md)** - 2026-08-24|
-| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[memory？memory！](https://github.com/allwayso/TIL/blob/main/memory%EF%BC%9Fmemory%EF%BC%81.md)** - 2026-08-24|
-| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[上下文压缩(设计调研与实施方案)](https://github.com/allwayso/TIL/blob/main/pi-compaction-design-zh.md)** - 2026-08-24|
+| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[Review of my first hackthon——AIx Origin Summit](https://github.com/allwayso/TIL/blob/main/Review%20of%20my%20first%20hackthon%E2%80%94%E2%80%94AIx%20Origin%20Summit.md)** - 2026-09-08|
+| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[mem0：most popular agent memory architecture？](https://github.com/allwayso/TIL/blob/main/mem0%EF%BC%9Amost%20popular%20agent%20memory%20architecture%EF%BC%9F.md)** - 2026-09-08|
+| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[memory？memory！](https://github.com/allwayso/TIL/blob/main/memory%EF%BC%9Fmemory%EF%BC%81.md)** - 2026-09-08|
 
 ---
 
