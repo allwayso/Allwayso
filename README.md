@@ -13,9 +13,9 @@
 
 | Now Building | Featured | [TIL](https://github.com/allwayso/TIL) |
 | --- | --- | --- |
-| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[【每日一盘棋计划】EP01_小目单靠的变化](https://github.com/allwayso/TIL/blob/main/%E3%80%90%E6%AF%8F%E6%97%A5%E4%B8%80%E7%9B%98%E6%A3%8B%E8%AE%A1%E5%88%92%E3%80%91EP01_%E5%B0%8F%E7%9B%AE%E5%8D%95%E9%9D%A0%E7%9A%84%E5%8F%98%E5%8C%96.md)** - 2026-09-09|
-| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[Gym in Shenzhen](https://github.com/allwayso/TIL/blob/main/Gym%20in%20Shenzhen.md)** - 2026-09-08|
-| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[Review of my first hackthon——AIx Origin Summit](https://github.com/allwayso/TIL/blob/main/Review%20of%20my%20first%20hackthon%E2%80%94%E2%80%94AIx%20Origin%20Summit.md)** - 2026-09-08|
+| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[【每日一盘棋】EP01_小目单靠的变化](https://github.com/allwayso/TIL/blob/main/%E3%80%90%E6%AF%8F%E6%97%A5%E4%B8%80%E7%9B%98%E6%A3%8B%E3%80%91EP01_%E5%B0%8F%E7%9B%AE%E5%8D%95%E9%9D%A0%E7%9A%84%E5%8F%98%E5%8C%96.md)** - 2026-09-11|
+| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[【每日一盘棋】EP02_进攻时的选择](https://github.com/allwayso/TIL/blob/main/%E3%80%90%E6%AF%8F%E6%97%A5%E4%B8%80%E7%9B%98%E6%A3%8B%E3%80%91EP02_%E8%BF%9B%E6%94%BB%E6%97%B6%E7%9A%84%E9%80%89%E6%8B%A9.md)** - 2026-09-11|
+| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[Gym in Shenzhen](https://github.com/allwayso/TIL/blob/main/Gym%20in%20Shenzhen.md)** - 2026-09-08|
 
 ---
 
