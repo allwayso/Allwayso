@@ -13,9 +13,9 @@
 
 | Now Building | Featured | [TIL](https://github.com/allwayso/TIL) |
 | --- | --- | --- |
-| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[Our Product：Difficult field，Nice try](https://github.com/allwayso/TIL/blob/main/Our%20Product%EF%BC%9ADifficult%20field%EF%BC%8CNice%20try.md)** - 2026-09-28|
-| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[Racetrack 3：suppose I were the developer or judge](https://github.com/allwayso/TIL/blob/main/Racetrack%203%EF%BC%9Asuppose%20I%20were%20the%20developer%20or%20judge.md)** - 2026-09-28|
-| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[Racetrack 1：suppose I were the developer or judge](https://github.com/allwayso/TIL/blob/main/Racetrack%201%EF%BC%9Asuppose%20I%20were%20the%20developer%20or%20judge.md)** - 2026-09-28|
+| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[A shift towards basement](https://github.com/allwayso/TIL/blob/main/A%20shift%20towards%20basement.md)** - 2026-09-30|
+| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[Chapter1 A tour of computer system](https://github.com/allwayso/TIL/blob/main/Chapter1%20A%20tour%20of%20computer%20system.md)** - 2026-09-30|
+| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[Material Available](https://github.com/allwayso/TIL/blob/main/Material%20Available.md)** - 2026-09-30|
 
 ---
 
