@@ -13,9 +13,9 @@
 
 | Now Building | Featured | [TIL](https://github.com/allwayso/TIL) |
 | --- | --- | --- |
-| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[Lalit‘s blog of vibe coding](https://github.com/allwayso/TIL/blob/main/Lalit%E2%80%98s%20blog%20of%20vibe%20coding.md)** - 2026-10-01|
-| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[A shift towards basement](https://github.com/allwayso/TIL/blob/main/A%20shift%20towards%20basement.md)** - 2026-09-30|
-| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[Chapter1 A tour of computer system](https://github.com/allwayso/TIL/blob/main/Chapter1%20A%20tour%20of%20computer%20system.md)** - 2026-09-30|
+| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[Vim the editor is interesting, at least the tutor](https://github.com/allwayso/TIL/blob/main/Vim%20the%20editor%20is%20interesting%2C%20at%20least%20the%20tutor.md)** - 2026-10-02|
+| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[Lalit‘s blog of vibe coding](https://github.com/allwayso/TIL/blob/main/Lalit%E2%80%98s%20blog%20of%20vibe%20coding.md)** - 2026-10-01|
+| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[A shift towards basement](https://github.com/allwayso/TIL/blob/main/A%20shift%20towards%20basement.md)** - 2026-09-30|
 
 ---
 
