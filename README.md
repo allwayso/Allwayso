@@ -13,9 +13,9 @@
 
 | Now Building | Featured | [TIL](https://github.com/allwayso/TIL) |
 | --- | --- | --- |
-| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[【CSAPP】Chapter2 Representing and Manipulating Information](https://github.com/allwayso/TIL/blob/main/%E3%80%90CSAPP%E3%80%91Chapter2%20Representing%20and%20Manipulating%20Information.md)** - 2026-10-10|
-| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[Chapter 3 Matchine-Level Representation of Programs](https://github.com/allwayso/TIL/blob/main/%E3%80%90CSAPP%E3%80%91Chapter3%20Machine-Level%20Representation%20of%20Programs.md)** - 2026-10-10|
-| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[When will the smaller number in round(x+y) be fully dropped away](https://github.com/allwayso/TIL/blob/main/When%20will%20the%20smaller%20number%20in%20round(x%2By)%20be%20fully%20dropped%20away.md)** - 2026-10-06|
+| **[learn-pi-agent](https://github.com/allwayso/learn-pi-agent)**<br>从零复刻 AI Agent 运行时 | **[CookingSimulator](https://github.com/allwayso/CookingSimulator)**<br>Unity 像素做菜模拟器 | <!-- TIL:1 --> **[LF or CRLF](https://github.com/allwayso/TIL/blob/main/LF%20or%20CRLF.md)** - 2026-10-10|
+| Agent tool calling 引擎 | **[tinyrenderer](https://github.com/allwayso/tinyrenderer)**<br>C++ 软渲染器 | <!-- TIL:2 --> **[【CSAPP】Chapter2 Representing and Manipulating Information](https://github.com/allwayso/TIL/blob/main/%E3%80%90CSAPP%E3%80%91Chapter2%20Representing%20and%20Manipulating%20Information.md)** - 2026-10-10|
+| LLM streaming 与 event stream | **[cs231n](https://github.com/allwayso/cs231n)**<br>Stanford CV 笔记与代码 | <!-- TIL:3 --> **[Chapter 3 Matchine-Level Representation of Programs](https://github.com/allwayso/TIL/blob/main/%E3%80%90CSAPP%E3%80%91Chapter3%20Machine-Level%20Representation%20of%20Programs.md)** - 2026-10-10|
 
 ---
 
