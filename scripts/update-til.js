@@ -29,7 +29,7 @@ function githubApi(path) {
 
 async function getLatestTilEntries() {
   // Fetch pre-built index.json from TIL repo (single API call)
-  const indexData = await githubApi(`/repos/${TIL_REPO}/contents/index.json`);
+  const indexData = await githubApi(`/repos/${TIL_REPO}/contents/index.json?ref=index`);
   const indexContent = Buffer.from(indexData.content, "base64").toString("utf-8");
   const allEntries = JSON.parse(indexContent);
 
